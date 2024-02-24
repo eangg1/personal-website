@@ -72,7 +72,7 @@ span{
 }
 
 .content{
-    max-width: 500px;
+    max-width: 700px;
     color: rgb(68, 60, 60);
 }
 
@@ -86,6 +86,7 @@ span{
 
 .content p{
     padding: 10px 0 40px 0;
+    font-size: larger;
 }
 
 .grup-tombol a{
